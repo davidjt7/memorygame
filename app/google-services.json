@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384513451990",
+    "project_id": "memory-flip-62690",
+    "storage_bucket": "memory-flip-62690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384513451990:android:54546a380a72cb3ecca677",
+        "android_client_info": {
+          "package_name": "com.acuityx.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384513451990-a8cv6b48ci73td46pnbcpbggp676b439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFTcHS-YrFWWPyxNW38_BivJp8rscMBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384513451990-a8cv6b48ci73td46pnbcpbggp676b439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
